@@ -1,0 +1,12 @@
+{
+  "name": "anshi-bot",
+  "version": "1.0.0",
+  "description": "Anshi Telegram Bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
